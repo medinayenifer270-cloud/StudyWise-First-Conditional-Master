@@ -1,0 +1,6 @@
+{
+  "name": "StudyWise: First Conditional Master",
+  "description": "Master English First Conditional through study habits with interactive grammar games, instant smart feedback, scores, and Barnaby the study owl guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
